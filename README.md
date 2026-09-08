@@ -33,7 +33,7 @@ The visit-style, time, museum, and interest controls prepare preferences; the we
 
 Distribution **v0.1.1** publishes the website and licensed packages; the experimental guide/skill content remains **v0.1.0**, unchanged. The previous GitHub release is preserved. No Museum Packs are included.
 
-Vercel serves only `site/`, as configured in `vercel.json`. No build dependencies, AI API, database, visitor accounts, or analytics are used. Image/font provenance and licenses are available on the website's credits page. Updating the website does not require changing DNS again.
+Vercel serves only `site/`, as configured in `vercel.json`. `.vercelignore` also restricts uploads to `site/` and `vercel.json`, excluding local test output and development files. No build dependencies, AI API, database, visitor accounts, or analytics are used. Image/font provenance and licenses are available on the website's credits page. Updating the website does not require changing DNS again.
 
 ## Build and verify
 

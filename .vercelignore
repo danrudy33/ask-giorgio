@@ -1,0 +1,4 @@
+# Upload only the generated public site and its hosting configuration.
+/*
+!site
+!vercel.json
