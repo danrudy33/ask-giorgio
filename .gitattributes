@@ -1,0 +1,3 @@
+# Preserve upstream font license text byte-for-byte, including whitespace.
+site/assets/fonts/OFL-Cormorant.txt -whitespace
+site/assets/fonts/OFL-Manrope.txt -whitespace

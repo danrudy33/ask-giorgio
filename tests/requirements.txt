@@ -1,0 +1,2 @@
+# Development-only browser tests; the deployed website has no Python runtime.
+playwright==1.59.0

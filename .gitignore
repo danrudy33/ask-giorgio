@@ -1,2 +1,8 @@
 .DS_Store
 *.zip
+!site/downloads/*.zip
+.vercel/
+.vercel
+.env*
+__pycache__/
+test-results/

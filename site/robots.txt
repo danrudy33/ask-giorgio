@@ -1,0 +1,3 @@
+# Indexing is discouraged by X-Robots-Tag and page meta tags.
+User-agent: *
+Allow: /

@@ -1,0 +1,30 @@
+{
+  "LICENSE": {
+    "bytes": 1065,
+    "sha256": "ca9fdf58f867e20431d59a84f1f5f70eb73ebf19562ce95fdddf37a505c351c5"
+  },
+  "LICENSE-CONTENT.txt": {
+    "bytes": 18656,
+    "sha256": "9e5f1b3c610b9c2da5c313bf81d577a7d1acec686bdb0384edefa6df0f90cd94"
+  },
+  "README.txt": {
+    "bytes": 1441,
+    "sha256": "0d6de74e655be270c5f06f33c974bd9201a44d9257adab9d24c3da23831a040b"
+  },
+  "ask-giorgio-profile.md": {
+    "bytes": 1265,
+    "sha256": "ce7bba76edfb1edf3841aae0d3ebba010f117f94d9eff62a6d325acf8f269631"
+  },
+  "ask-giorgio-skill-v0.1.1.zip": {
+    "bytes": 14252,
+    "sha256": "a16c7ada8c1877c2489da20934357aafb80084fe85224a04f0b0f5ec66d2b42e"
+  },
+  "ask-giorgio-universal-v0.1.1.zip": {
+    "bytes": 13814,
+    "sha256": "04db429a996549168d5c31f2b068c09f103242a0d1c4039aa29f72d5aafa886b"
+  },
+  "protocol.md": {
+    "bytes": 11824,
+    "sha256": "fb2c0d0855ba222514e3cd84c6eb4925b754856efad6f63d312f51c50166b5fd"
+  }
+}
